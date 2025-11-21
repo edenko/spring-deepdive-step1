@@ -1,0 +1,4 @@
+supabase:
+  url: https://amxhswgratpqfspvfijo.supabase.co
+  anon-key: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImFteGhzd2dyYXRwcWZzcHZmaWpvIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjM1OTgwNjYsImV4cCI6MjA3OTE3NDA2Nn0.BOwWFhtiQZPJF9fVXy2eNpM744FAPpHa9RfVdWuim2k
+  jwt-secret: huGoHDhrPeNww1NjCVZv4mMePdscpRfq67ZYUfBJb9kEjJuyRh4uWc5m6VJGYdYpYN1zCP7GR31vopBl4FLAgw==

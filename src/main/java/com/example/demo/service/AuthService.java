@@ -79,7 +79,7 @@ public class AuthService {
                 .email((String) userMap.get("email"))
                 .phone((String) userMap.get("phone"))
                 .role(userMetadata != null ? (String) userMetadata.get("role") : null)
-                .sub(userMetadata != null ? (String) userMetadata.get("sub") : null)
+                .sub((String) userMap.get("sub"))
                 .emailConfirmedAt(parseInstant(userMap.get("email_confirmed_at")))
                 .confirmationSentAt(parseInstant(userMap.get("confirmation_sent_at")))
                 .confirmedAt(parseInstant(userMap.get("confirmed_at")))
